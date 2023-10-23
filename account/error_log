@@ -1,0 +1,290 @@
+[13-Nov-2020 10:01:47 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/trading-history.php on line 8
+[13-Nov-2020 10:01:47 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/trading-history.php on line 13
+[13-Nov-2020 10:01:47 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/header.php on line 68
+[13-Nov-2020 10:01:47 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/sidebar.php on line 17
+[13-Nov-2020 10:01:47 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/sidebar.php on line 24
+[13-Nov-2020 10:01:47 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/footer.php on line 62
+[13-Nov-2020 10:01:59 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/verify.php on line 7
+[13-Nov-2020 10:01:59 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/index.php on line 7
+[13-Nov-2020 10:01:59 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/index.php on line 11
+[13-Nov-2020 10:01:59 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/header.php on line 68
+[13-Nov-2020 10:01:59 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/sidebar.php on line 17
+[13-Nov-2020 10:01:59 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/sidebar.php on line 24
+[13-Nov-2020 10:01:59 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/index.php on line 63
+[13-Nov-2020 10:01:59 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/index.php on line 133
+[13-Nov-2020 10:01:59 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/index.php on line 174
+[13-Nov-2020 10:01:59 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/index.php on line 191
+[13-Nov-2020 10:01:59 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/footer.php on line 62
+[23-Nov-2020 17:19:58 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/goldmxgi/perfectfxoptiontrade.com/account/deposit.php on line 19
+[05-Jul-2022 00:47:43 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 00:47:43 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHMk0KR' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 00:47:43 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 00:47:43 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8Fc5v2' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 00:48:31 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 00:48:31 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkK9Jw2' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 00:48:31 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 00:48:31 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBzMpK0' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 00:48:44 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 00:48:44 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpacErhw' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 00:48:44 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 00:48:44 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnXsnQX' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 00:51:41 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 00:51:41 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpaz1Flo' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 00:51:41 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 00:51:41 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjPZA3d' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 00:55:02 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 00:55:02 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplGIKnO' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 00:55:02 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 00:55:02 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpIVCCze' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 00:55:35 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 00:55:35 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpk1z742' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 00:55:35 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 00:55:35 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFB4hDK' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 00:56:43 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 00:56:43 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxVwppc' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 00:56:43 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 00:56:43 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYUmVkm' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 01:02:39 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 01:02:39 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpUJsGrV' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 01:02:39 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 01:02:39 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVWVBwi' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 01:04:47 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 01:04:47 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpCdV4p7' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 01:04:47 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 01:04:47 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZqmB9b' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 01:08:08 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 01:08:08 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php4flsIk' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 01:08:08 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 01:08:08 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplzeqMR' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 01:08:34 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 01:08:34 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsZ1Efe' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idfrontcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 01:08:34 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 01:08:34 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVtSKfD' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/David-Briggs_idbackcard.png' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 03:29:24 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idfrontcard.jpg): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 03:29:24 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvkw9Ra' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idfrontcard.jpg' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 03:29:24 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idbackcard.jpg): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 03:29:24 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpv6kZs6' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idbackcard.jpg' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 03:29:26 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idfrontcard.jpg): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 03:29:26 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpT0ErIf' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idfrontcard.jpg' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 03:29:26 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idbackcard.jpg): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 03:29:26 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWfumgg' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idbackcard.jpg' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 03:30:17 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idfrontcard.jpg): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 03:30:17 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php6gNj9i' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idfrontcard.jpg' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 03:30:17 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idbackcard.jpg): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 03:30:17 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqoXAxc' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idbackcard.jpg' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 03:30:23 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idfrontcard.jpg): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 03:30:23 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php89hynu' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idfrontcard.jpg' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 03:30:23 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idbackcard.jpg): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 03:30:23 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpERoiTy' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idbackcard.jpg' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 03:30:24 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idfrontcard.jpg): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 03:30:24 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpIEm9ny' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idfrontcard.jpg' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 03:30:24 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idbackcard.jpg): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 03:30:24 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsnv4BH' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/Cirdan-heughan_idbackcard.jpg' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 22:29:55 Africa/Lagos] PHP Notice:  Undefined variable: thumb_tmp in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 22:29:55 Africa/Lagos] PHP Notice:  Undefined variable: new_thumb_upload_path in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[05-Jul-2022 22:29:55 Africa/Lagos] PHP Notice:  Undefined variable: bthumb_tmp in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 22:29:55 Africa/Lagos] PHP Notice:  Undefined variable: bnew_thumb_upload_path in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[05-Jul-2022 22:29:55 Africa/Lagos] PHP Notice:  Undefined variable: thumb_link in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 47
+[05-Jul-2022 22:29:55 Africa/Lagos] PHP Notice:  Undefined variable: bthumb_link in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 47
+[27-Jul-2022 20:58:15 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/dhee-_idfrontcard.jpg): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[27-Jul-2022 20:58:15 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpGOlLC1' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/dhee-_idfrontcard.jpg' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 42
+[27-Jul-2022 20:58:15 Africa/Lagos] PHP Warning:  move_uploaded_file(/home2/cryptoc/public_html/timelineinvestment/verifyimage/dhee-_idbackcard.jpg): failed to open stream: No such file or directory in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[27-Jul-2022 20:58:15 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpz7eaAu' to '/home2/cryptoc/public_html/timelineinvestment/verifyimage/dhee-_idbackcard.jpg' in /home2/cryptoc/public_html/timelineinvestment/dashboard/account/verify.php on line 43
+[31-Mar-2023 22:17:36 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[31-Mar-2023 22:18:15 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[01-Apr-2023 20:24:35 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[04-Apr-2023 23:02:51 Africa/Lagos] PHP Notice:  A non well formed numeric value encountered in /home2/cryptoc/public_html/bharvDashboard/account/deposit.php on line 19
+[07-Apr-2023 13:38:54 Africa/Lagos] PHP Notice:  A non well formed numeric value encountered in /home2/cryptoc/public_html/bharvDashboard/account/deposit.php on line 19
+[11-Apr-2023 00:57:08 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 129
+[11-Apr-2023 00:57:08 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[11-Apr-2023 00:59:14 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 129
+[11-Apr-2023 00:59:14 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[11-Apr-2023 01:00:26 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/deposit.php on line 19
+[12-Apr-2023 16:55:41 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 129
+[12-Apr-2023 16:55:41 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[12-Apr-2023 16:55:58 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/profile.php on line 101
+[12-Apr-2023 16:56:17 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/deposit.php on line 19
+[12-Apr-2023 16:56:26 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 129
+[12-Apr-2023 16:56:26 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[28-Apr-2023 07:26:52 Africa/Lagos] PHP Notice:  A non well formed numeric value encountered in /home2/cryptoc/public_html/bharvDashboard/account/deposit.php on line 19
+[09-May-2023 21:35:23 Africa/Lagos] PHP Notice:  Undefined variable: thumb_tmp in /home2/cryptoc/public_html/bharvDashboard/account/verify.php on line 42
+[09-May-2023 21:35:23 Africa/Lagos] PHP Notice:  Undefined variable: new_thumb_upload_path in /home2/cryptoc/public_html/bharvDashboard/account/verify.php on line 42
+[09-May-2023 21:35:23 Africa/Lagos] PHP Notice:  Undefined variable: bthumb_tmp in /home2/cryptoc/public_html/bharvDashboard/account/verify.php on line 43
+[09-May-2023 21:35:23 Africa/Lagos] PHP Notice:  Undefined variable: bnew_thumb_upload_path in /home2/cryptoc/public_html/bharvDashboard/account/verify.php on line 43
+[09-May-2023 21:35:23 Africa/Lagos] PHP Notice:  Undefined variable: thumb_link in /home2/cryptoc/public_html/bharvDashboard/account/verify.php on line 47
+[09-May-2023 21:35:23 Africa/Lagos] PHP Notice:  Undefined variable: bthumb_link in /home2/cryptoc/public_html/bharvDashboard/account/verify.php on line 47
+[09-May-2023 21:36:11 Africa/Lagos] PHP Notice:  Undefined variable: bthumb_tmp in /home2/cryptoc/public_html/bharvDashboard/account/verify.php on line 43
+[09-May-2023 21:36:11 Africa/Lagos] PHP Notice:  Undefined variable: bnew_thumb_upload_path in /home2/cryptoc/public_html/bharvDashboard/account/verify.php on line 43
+[09-May-2023 21:36:11 Africa/Lagos] PHP Notice:  Undefined variable: bthumb_link in /home2/cryptoc/public_html/bharvDashboard/account/verify.php on line 47
+[10-May-2023 06:10:35 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[10-May-2023 15:27:34 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[10-May-2023 15:27:45 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[11-May-2023 19:37:28 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[12-May-2023 17:42:48 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[15-May-2023 08:20:02 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[19-May-2023 20:50:53 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[22-May-2023 06:45:10 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[22-May-2023 06:45:10 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[22-May-2023 06:46:39 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[22-May-2023 06:46:39 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[22-May-2023 21:14:41 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[22-May-2023 21:14:41 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[25-May-2023 20:37:31 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[25-May-2023 20:37:31 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[25-May-2023 20:39:13 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[25-May-2023 20:39:13 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[25-May-2023 20:40:23 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[25-May-2023 20:40:23 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[02-Jun-2023 17:54:12 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[02-Jun-2023 17:54:41 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[02-Jun-2023 17:55:18 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[02-Jun-2023 17:56:02 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[02-Jun-2023 17:57:07 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[02-Jun-2023 18:05:36 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[03-Jun-2023 13:31:49 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[03-Jun-2023 13:33:10 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[03-Jun-2023 13:34:36 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[03-Jun-2023 13:34:41 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[03-Jun-2023 13:34:58 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[03-Jun-2023 13:35:18 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[03-Jun-2023 13:35:22 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[03-Jun-2023 13:35:53 Africa/Lagos] PHP Warning:  Attempt to read property "username" on string in /home/cryptoc/public_html/bharvDashboard/account/header.php on line 70
+[03-Jun-2023 13:35:53 Africa/Lagos] PHP Warning:  Attempt to read property "username" on string in /home/cryptoc/public_html/bharvDashboard/account/sidebar.php on line 17
+[03-Jun-2023 13:35:53 Africa/Lagos] PHP Warning:  Attempt to read property "level" on string in /home/cryptoc/public_html/bharvDashboard/account/sidebar.php on line 24
+[03-Jun-2023 13:35:53 Africa/Lagos] PHP Warning:  Attempt to read property "balance" on string in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 61
+[03-Jun-2023 13:35:53 Africa/Lagos] PHP Warning:  Attempt to read property "balance" on string in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 129
+[03-Jun-2023 13:35:53 Africa/Lagos] PHP Warning:  Attempt to read property "earnings" on string in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[03-Jun-2023 13:35:53 Africa/Lagos] PHP Warning:  Attempt to read property "deposit" on string in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[03-Jun-2023 13:35:53 Africa/Lagos] PHP Warning:  Attempt to read property "status" on string in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 232
+[03-Jun-2023 13:35:53 Africa/Lagos] PHP Warning:  Attempt to read property "status" on string in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 248
+[03-Jun-2023 13:35:53 Africa/Lagos] PHP Warning:  Attempt to read property "balance" on string in /home/cryptoc/public_html/bharvDashboard/account/footer.php on line 74
+[03-Jun-2023 13:36:06 Africa/Lagos] PHP Warning:  Attempt to read property "username" on string in /home/cryptoc/public_html/bharvDashboard/account/header.php on line 70
+[03-Jun-2023 13:36:06 Africa/Lagos] PHP Warning:  Attempt to read property "username" on string in /home/cryptoc/public_html/bharvDashboard/account/sidebar.php on line 17
+[03-Jun-2023 13:36:06 Africa/Lagos] PHP Warning:  Attempt to read property "level" on string in /home/cryptoc/public_html/bharvDashboard/account/sidebar.php on line 24
+[03-Jun-2023 13:36:06 Africa/Lagos] PHP Warning:  Attempt to read property "username" on string in /home/cryptoc/public_html/bharvDashboard/account/profile.php on line 46
+[03-Jun-2023 13:36:06 Africa/Lagos] PHP Warning:  Attempt to read property "username" on string in /home/cryptoc/public_html/bharvDashboard/account/profile.php on line 73
+[03-Jun-2023 13:36:06 Africa/Lagos] PHP Warning:  Attempt to read property "full_name" on string in /home/cryptoc/public_html/bharvDashboard/account/profile.php on line 74
+[03-Jun-2023 13:36:06 Africa/Lagos] PHP Warning:  Attempt to read property "email" on string in /home/cryptoc/public_html/bharvDashboard/account/profile.php on line 75
+[03-Jun-2023 13:36:06 Africa/Lagos] PHP Warning:  Attempt to read property "phone_number" on string in /home/cryptoc/public_html/bharvDashboard/account/profile.php on line 76
+[03-Jun-2023 13:36:06 Africa/Lagos] PHP Warning:  Attempt to read property "gender" on string in /home/cryptoc/public_html/bharvDashboard/account/profile.php on line 77
+[03-Jun-2023 13:36:06 Africa/Lagos] PHP Warning:  Attempt to read property "country" on string in /home/cryptoc/public_html/bharvDashboard/account/profile.php on line 78
+[03-Jun-2023 13:36:06 Africa/Lagos] PHP Warning:  Attempt to read property "balance" on string in /home/cryptoc/public_html/bharvDashboard/account/profile.php on line 101
+[03-Jun-2023 13:36:06 Africa/Lagos] PHP Warning:  Attempt to read property "status" on string in /home/cryptoc/public_html/bharvDashboard/account/profile.php on line 104
+[03-Jun-2023 13:36:06 Africa/Lagos] PHP Warning:  Attempt to read property "balance" on string in /home/cryptoc/public_html/bharvDashboard/account/footer.php on line 74
+[03-Jun-2023 13:36:14 Africa/Lagos] PHP Warning:  Attempt to read property "username" on string in /home/cryptoc/public_html/bharvDashboard/account/header.php on line 70
+[03-Jun-2023 13:36:14 Africa/Lagos] PHP Warning:  Attempt to read property "username" on string in /home/cryptoc/public_html/bharvDashboard/account/sidebar.php on line 17
+[03-Jun-2023 13:36:14 Africa/Lagos] PHP Warning:  Attempt to read property "level" on string in /home/cryptoc/public_html/bharvDashboard/account/sidebar.php on line 24
+[03-Jun-2023 13:36:14 Africa/Lagos] PHP Warning:  Attempt to read property "balance" on string in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 61
+[03-Jun-2023 13:36:14 Africa/Lagos] PHP Warning:  Attempt to read property "balance" on string in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 129
+[03-Jun-2023 13:36:14 Africa/Lagos] PHP Warning:  Attempt to read property "earnings" on string in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[03-Jun-2023 13:36:14 Africa/Lagos] PHP Warning:  Attempt to read property "deposit" on string in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 191
+[03-Jun-2023 13:36:14 Africa/Lagos] PHP Warning:  Attempt to read property "status" on string in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 232
+[03-Jun-2023 13:36:14 Africa/Lagos] PHP Warning:  Attempt to read property "status" on string in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 248
+[03-Jun-2023 13:36:14 Africa/Lagos] PHP Warning:  Attempt to read property "balance" on string in /home/cryptoc/public_html/bharvDashboard/account/footer.php on line 74
+[03-Jun-2023 13:36:32 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[03-Jun-2023 13:39:52 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[03-Jun-2023 13:40:15 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[03-Jun-2023 13:40:19 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:160
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(160): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 160
+[31-Jul-2023 20:08:08 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:129
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(129): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 129
+[31-Jul-2023 20:08:16 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:129
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(129): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 129
+[31-Jul-2023 20:08:23 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:129
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(129): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 129
+[31-Jul-2023 20:08:37 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:129
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(129): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 129
+[31-Jul-2023 20:08:43 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:129
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(129): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 129
+[31-Jul-2023 20:10:05 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:129
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(129): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 129
+[31-Jul-2023 20:10:38 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/cryptoc/public_html/bharvDashboard/account/index.php:129
+Stack trace:
+#0 /home/cryptoc/public_html/bharvDashboard/account/index.php(129): number_format()
+#1 {main}
+  thrown in /home/cryptoc/public_html/bharvDashboard/account/index.php on line 129

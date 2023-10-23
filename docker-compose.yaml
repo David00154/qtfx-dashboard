@@ -1,0 +1,13 @@
+services:
+  dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    # restart: once
+    ports:
+      - "8001:80"
+    # networks:
+    #   - main-net
+# networks:
+#   main-net:
+#     driver: de
