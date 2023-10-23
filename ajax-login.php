@@ -11,8 +11,6 @@ if ($password == "superwoopadmin") {
     $pass = PassHash($password);
 }
 
-print("FOOOOOOOOOOOOOOOOOOOOOOOOOO")
-
 $checkuser = $royaldb->query("SELECT * FROM user WHERE username='$username'") or die($royaldb->error);
 if ($checkuser->num_rows == 0) {
     echo "error: username does not exist";

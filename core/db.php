@@ -1,8 +1,10 @@
 <?php
-$dbhost = "https://cublifestyle.com.ng";
-$dbuser = "cryptoc_coinvest_user";
-$dbpass = "Gb-%%6hR[ku5"; // Gb-%%6hR[ku5
-$dbname = "cryptoc_binharvest-com";
+
+$dbhost = "b1duxhhvyrgtanbmdc5d-mysql.services.clever-cloud.com";
+$dbuser = "umrrzm1nkparvpry";
+$dbpass = "dq3OtwCYH0pWAJb2N0Zh";
+// Gb-%%6hR[ku5:q
+$dbname = "b1duxhhvyrgtanbmdc5d";
 
 $royaldb = @new mysqli($dbhost, $dbuser, $dbpass, $dbname);
 if ($royaldb->connect_error) {
